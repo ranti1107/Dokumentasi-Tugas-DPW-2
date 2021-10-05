@@ -1,2 +1,3 @@
 https://github.com/ranti1107/tugas-1-dpw	link github tugas 1 (animals)
 https://github.com/ranti1107/tugas1		link github tugas 2 (laravel)
+https://github.com/ranti1107/tugas1		link github tugas 3 (laravel)
