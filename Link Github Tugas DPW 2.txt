@@ -5,3 +5,5 @@ https://github.com/ranti1107/tugas1		link github tugas 4 (laravel)
 https://github.com/ranti1107/tugas1		link github tugas 5 (laravel)
 https://github.com/ranti1107/tugas1		link github tugas 6 (laravel)
 https://github.com/ranti1107/tugas1		link github tugas 7 (laravel)
+https://github.com/ranti1107/uts		link github tugas 8 UTS DPW 2
+https://github.com/ranti1107/tugas1		link github tugas 9 (laravel)
